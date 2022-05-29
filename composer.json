@@ -1,0 +1,16 @@
+{
+    "name": "igorzavaleev/otus-excercise",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IgorZavaleev\\OtusExercise\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor Zavaleev",
+            "email": "zavaleev_i@utkonos.ru"
+        }
+    ],
+    "require": {}
+}

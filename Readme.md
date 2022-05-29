@@ -1,0 +1,1 @@
+This component provides basic poem reading functionality.
