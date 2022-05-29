@@ -1,5 +1,5 @@
 {
-    "name": "igorzavaleev/otus-excercise",
+    "name": "igorzavaleev/otus-exercise",
     "type": "library",
     "autoload": {
         "psr-4": {
