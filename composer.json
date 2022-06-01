@@ -12,5 +12,7 @@
             "email": "zavaleev_i@utkonos.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.1"
+    }
 }
